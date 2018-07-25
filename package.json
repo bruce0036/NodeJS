@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/venus36/NodeJS#readme",
   "dependencies": {
+    "node-fetch": "^2.2.0",
     "reverse-polish-notation": "^0.1.0"
   },
   "devDependencies": {
